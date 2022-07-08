@@ -12,7 +12,7 @@
    "age": 32
    "hometown": "Itanhandu - MG"
    "soft skills": ["Empathy", "Focus on Quality", "Adaptability", "Emotional Intelligence"]
-   "hobbies": ["Testing", "NBA", "Pokémon"]
+   "hobbies": ["Testing", "Blink 182", "NBA", "Dragon Ball"]
    }
 ```
 
